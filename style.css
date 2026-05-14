@@ -165,13 +165,14 @@ a {
 }
 
 .site-header .logo__img {
-  height: 72px;
+  width: auto;
+  height: 84px;
   border-radius: 12px;
 }
 
 @media (min-width: 720px) {
   .site-header .logo__img {
-    height: 80px;
+    height: 96px;
   }
 }
 
@@ -375,7 +376,7 @@ a {
 }
 
 .logo--footer .logo__img {
-  height: 88px;
+  height: 108px;
   border-radius: 12px;
   background: rgba(255, 240, 244, 0.1);
   box-shadow: 0 4px 22px rgba(0, 0, 0, 0.22), 0 0 0 1px rgba(255, 200, 210, 0.2);

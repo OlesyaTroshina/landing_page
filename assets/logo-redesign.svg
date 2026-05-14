@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1120" role="img" aria-labelledby="title desc">
+  <title id="title">Сладость в радость</title>
+  <desc id="desc">Декоративный винтажный логотип с тортом и контактами.</desc>
+  <defs>
+    <style>
+      .p{fill:none;stroke:#e93a6a;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+      .t{fill:#e93a6a;font-family:Georgia,'Times New Roman',serif}
+    </style>
+  </defs>
+
+  <!-- frame -->
+  <path class="p" d="M80 190c40 20 80 20 120 0 40-20 80-20 120 0"/>
+  <path class="p" d="M680 190c-40 20-80 20-120 0-40-20-80-20-120 0"/>
+  <path class="p" d="M90 250c-45 160-45 320 0 480"/>
+  <path class="p" d="M670 250c45 160 45 320 0 480"/>
+  <path class="p" d="M120 760c80 70 160 90 260 90s180-20 260-90"/>
+  <path class="p" d="M240 115c40-50 80-70 140-70s100 20 140 70"/>
+
+  <!-- cake emblem -->
+  <ellipse class="p" cx="380" cy="510" rx="130" ry="46"/>
+  <path class="p" d="M250 506c4-64 52-96 130-96s126 32 130 96"/>
+  <path class="p" d="M280 428c16-34 46-52 100-52s84 18 100 52"/>
+  <path class="p" d="M318 412c8-24 30-36 62-36s54 12 62 36"/>
+  <circle cx="348" cy="450" r="6" fill="#e93a6a"/>
+  <circle cx="380" cy="440" r="6" fill="#e93a6a"/>
+  <circle cx="412" cy="450" r="6" fill="#e93a6a"/>
+
+  <!-- text block -->
+  <text x="380" y="600" text-anchor="middle" class="t" font-size="56" font-weight="700">Сладость в радость</text>
+  <text x="380" y="550" text-anchor="middle" class="t" font-size="34" font-style="italic">ручная работа, сделано с любовью</text>
+  <text x="380" y="690" text-anchor="middle" class="t" font-size="64" font-weight="700">+79189759453</text>
+  <text x="380" y="760" text-anchor="middle" class="t" font-size="58" text-decoration="underline">t.me/tort23</text>
+</svg>
