@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Логотип домашней кондитерской Сладость в радость</title>
+  <desc id="desc">Эмблема с тортом и декоративным сердцем.</desc>
+
+  <g fill="none" stroke="#E93A6A" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="6" d="M46 162c18 18 40 26 64 26s46-8 64-26"/>
+    <path stroke-width="6" d="M72 58c8-14 22-22 38-22 16 0 30 8 38 22"/>
+    <path stroke-width="6" d="M62 68c9-8 20-12 30-12 8 0 14 2 18 5 4-3 10-5 18-5 10 0 21 4 30 12"/>
+    <path stroke-width="5" d="M82 56c-8-10-20-10-24 0-4 10 2 20 14 24"/>
+    <path stroke-width="5" d="M138 56c8-10 20-10 24 0 4 10-2 20-14 24"/>
+
+    <ellipse cx="110" cy="146" rx="64" ry="22" stroke-width="6"/>
+    <path stroke-width="6" d="M46 144c2-34 28-52 64-52s62 18 64 52"/>
+    <path stroke-width="6" d="M62 104c6-18 18-28 48-28s42 10 48 28"/>
+    <path stroke-width="4" d="M84 100c0-9 7-16 16-16 5 0 10 2 13 6 3-4 8-6 13-6 9 0 16 7 16 16"/>
+  </g>
+
+  <g fill="#E93A6A">
+    <circle cx="94" cy="116" r="4"/>
+    <circle cx="110" cy="110" r="4"/>
+    <circle cx="126" cy="116" r="4"/>
+  </g>
+</svg>
